@@ -1,2 +1,2 @@
 # DNLibs
-push a partir do VS casa
+Respositório para pacotes baseados em dotNET
